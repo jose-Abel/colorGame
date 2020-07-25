@@ -1,6 +1,6 @@
 # Color Game
 
-Simple game that consist in having to guess the color that is displayed in RGBA, build with CSS, HTML and JavaScript were it used JavaScript functions to control the DOM to add and remove classes following the guide in the Udemy course "The Web Developer Bootcamp!" created by Colt Steele.
+Simple game that consist in having to guess the color that is displayed in RGB, build with CSS, HTML and JavaScript were it used JavaScript functions to control the DOM to add and remove classes following the guide in the Udemy course "The Web Developer Bootcamp!" created by Colt Steele.
 
 This project
 ![screenshot](./app_screenshot.png)
